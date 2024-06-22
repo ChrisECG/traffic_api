@@ -1,0 +1,13 @@
+{
+  "name": "traffic_maps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "puppeteer": "^22.12.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
